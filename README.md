@@ -1,24 +1,27 @@
-# green.douban.movie
 
-## Project setup
-```
+# 绿豆瓣·电影文件管理系统
+
+### 小哥哥正在爆肝开发中，敬请期待
+
+#### Build Setup
+
+``` bash
+# install dependencies
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# serve with hot reload at localhost:9080
+npm run dev
 
-### Compiles and minifies for production
-```
+# build electron application for production
 npm run build
-```
 
-### Lints and fixes files
-```
+# run unit & end-to-end tests
+npm test
+
+
+# lint all JS/Vue component files in `src/`
 npm run lint
+
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+---
